@@ -4,7 +4,7 @@ Recognition of product positions on shelf images using neural networks
 ## Introduction
 
 The solution is based on [Toward Retail Product Recognition on Grocery Shelves](https://pdfs.semanticscholar.org/280e/57ea3e882f82a60065fedde058ce00769c06.pdf).
-
+![](docs/images/planogram construction.png)
 
 
 ## Dependencies
