@@ -15,8 +15,18 @@ proposes the following combination of algorithms.
 
 ![](docs/images/process.png)
 
+It was hard to implement, hard to maintain, hard to expand to include new brands and products.
+
 Nowdays neural networks change the way of thinking of such tasks. This work shows that all these algorithms could be easily replaced
 by only 2 neural networks with increase of recognition quality without losing performance.
+
+## Steps
+
+All steps are implemented as jupyter notebooks and could be read without execution:
+*   [Step 1 - Initial Data Preparation](https://github.com/empathy87/nn-grocery-shelves/blob/master/Step%201%20-%20Initial%20Data%20Preparation.ipynb)
+*   [Step 2 - Brands Recognition with CNN]()
+*   [Step 3 - Training SSD for Products Detection]()
+*   [Step 4 - Implementing Products Detection]()
 
 ## Dependencies
 
