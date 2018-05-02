@@ -12,6 +12,7 @@ The solution is based on [Toward Retail Product Recognition on Grocery Shelves](
 They have collected 345 tobacco shelves images from ~40 locations with 4 cameras that are available for downloading.
 ![](docs/images/C1_P02_N3_S3_1.JPG)
 They also cropped over 13,000 products and grouped into 10 brand classes.
+
 Few years ago a planogram reconstruction from shelves photos was not an easy task in both products detection and brands recognition. The work
 proposes the following combination of algorithms.
 ![](docs/images/process.png)
