@@ -9,12 +9,11 @@ Recognition of product positions on shelf images using neural networks
 - Visual description of the retail products' placement on shelves.
 
 The solution is based on [Toward Retail Product Recognition on Grocery Shelves](https://pdfs.semanticscholar.org/280e/57ea3e882f82a60065fedde058ce00769c06.pdf).
-
-Few years ago a planogram reconstruction from shelves photos was not an easy task in both products detection and brands recognition. The work mentioned above
+They have collected 345 tobacco shelves images from ~40 locations with 4 cameras.
+![](docs/images/C1_P02_N3_S3_1.JPG)
+Few years ago a planogram reconstruction from shelves photos was not an easy task in both products detection and brands recognition. The work
 proposes the following combination of algorithms.
-
 ![](docs/images/process.png)
-
 It was hard to implement, hard to maintain, hard to expand to include new brands and products.
 
 Nowdays neural networks change the way of thinking of such tasks. This work shows that all these algorithms could be easily replaced
