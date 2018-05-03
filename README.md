@@ -25,7 +25,7 @@ by only 2 neural networks with increase of recognition quality without losing pe
 
 All steps are implemented as jupyter notebooks and could be read without execution:
 *   [Step 1 - Initial Data Preparation](https://github.com/empathy87/nn-grocery-shelves/blob/master/Step%201%20-%20Initial%20Data%20Preparation.ipynb)
-*   [Step 2 - Brands Recognition with CNN]()
+*   [Step 2 - Brands Recognition with CNN](https://github.com/empathy87/nn-grocery-shelves/blob/master/Step%202%20-%20Brands%20Recognition%20with%20CNN.ipynb)
 *   [Step 3 - Training SSD for Products Detection]()
 *   [Step 4 - Implementing Products Detection]()
 
