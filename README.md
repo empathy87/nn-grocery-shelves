@@ -1,5 +1,5 @@
 # nn-grocery-shelves
-# Recognition of Product Positions on Shelf Images with Deep Learning in Keras / Tensorflow / Object Detection API
+### Recognition of Product Positions on Shelf Images with Deep Learning in Keras / Tensorflow / Object Detection API
 
 ![](docs/images/planogram.jpg)
 
