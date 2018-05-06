@@ -19,7 +19,7 @@ proposes the following combination of algorithms.
 It was hard to implement, hard to maintain, hard to expand to include new brands and products.
 
 Recently Convolutional Neural Networks (CNN) have made a revolution in Computer Vision and have changed the way of thinking of such tasks.
-In the past couple of years, these technologies have started to became available to the broader software development community. User-frendly API such as Keras
+In the past couple of years, these technologies have started to became available to the broader software development community. User-friendly API such as Keras
 significantly decreased the barriers to entry. Now days nearly any software developer can in few days start to benefit from the power of Convolutional Neural Networks!
 
 This work shows the power of these cutting edge techniques. It will show that all algorithms proposed above could be easily replaced
