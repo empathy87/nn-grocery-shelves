@@ -100,4 +100,6 @@ ENV/
 # mypy
 .mypy_cache/
 
-data/
+/data/
+/pack_detector/data/train.record
+/pack_detector/data/eval.record
