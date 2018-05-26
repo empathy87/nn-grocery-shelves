@@ -30,7 +30,7 @@ by only 2 CNNs with increase of recognition quality without losing performance.
 All steps are implemented as jupyter notebooks and could be read without execution:
 *   [Step 1 - Initial Data Preparation](https://github.com/empathy87/nn-grocery-shelves/blob/master/Step%201%20-%20Initial%20Data%20Preparation.ipynb)
 *   [Step 2 - Brands Recognition with ResNet CNN](https://github.com/empathy87/nn-grocery-shelves/blob/master/Step%202%20-%20Brands%20Recognition%20with%20CNN.ipynb)
-*   [Step 3 - Training SSD for Products Detection]()
+*   [Step 3 - Training SSD for Products Detection](https://github.com/empathy87/nn-grocery-shelves/blob/master/Step%203%20-%20Training%20SSD%20for%20Products%20Detection.ipynb)
 *   [Step 4 - Implementing Products Detection]()
 
 ## Dependencies
