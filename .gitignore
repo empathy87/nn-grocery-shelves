@@ -102,3 +102,4 @@ ENV/
 
 /pack_detector/data/train.record
 /pack_detector/data/eval.record
+/data
